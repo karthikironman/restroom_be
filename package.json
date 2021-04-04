@@ -1,0 +1,14 @@
+{
+  "name": "restroom_be",
+  "version": "1.0.0",
+  "description": "Codebase for the server part for the restroom status project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "karthikironman",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.14.1"
+  }
+}
